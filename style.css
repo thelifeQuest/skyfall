@@ -58,16 +58,10 @@ body{
 .hiders p:nth-child(2) {
   animation-delay: 3s;
 }
-.hiders p:nth-child(3) {
-  animation-delay: 6s;
-}
-.hiders p:nth-child(4) {
-  animation-delay: 9s;
-}
-.hiders p:nth-child(5) {
-  animation-delay: 12s;
-}
 
-.hiders p:nth-child(6) {
-    animation-delay: 15s;
-  }
+
+
+
+a {
+  text-decoration: none;
+}
